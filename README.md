@@ -1,12 +1,7 @@
-# E-Prozar Sprint 4
+# E-Prozar
 
-## Story
 
-You and a friend had the idea to create a website for the local grocery store down the street after you heard them considering to try out this "online thing where the people are all going these days".
-In order to convince the owners to choose you for creating their site, you need to present a demo to them with a group of random products.
-Coffee mug full, coding mode on, let's create E-Prozar !
-
-## What are you going to learn?
+## What do I use in this project?
 
 - react routing
 - UseEffect hook
@@ -37,11 +32,3 @@ Coffee mug full, coding mode on, let's create E-Prozar !
    - The `Promotions` page has a carousel which displays the image of the 3 randomly chosen products.
    - Each slide also has a label which displays a text in the format `For the {xth} of {month_name} {product_name}: from {old_price} to {new_price}` (example `For the 24th of March Generic Frozen Shirt: from $303.00 to $152 !`)
 
-## Background materials
-
-- <i class="far fa-exclamation"></i> [Functional Components](https://www.robinwieruch.de/react-function-component#react-stateless-function-component)
-- <i class="far fa-exclamation"></i> [Reach Responsive Carousel](https://www.npmjs.com/package/react-responsive-carousel)
-- <i class="far fa-exclamation"></i> [React Router Dom](https://reactrouter.com/web/guides/quick-start)
-- <i class="far fa-exclamation"></i> [React Use Effect](https://reactjs.org/docs/hooks-effect.html)
-- <i class="far fa-book-open"></i> [JS Date functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
-- <i class="far fa-book-open"></i> [JS String functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
