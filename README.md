@@ -1,5 +1,7 @@
 # E-Prozar
 
+- Use npm install to install modules
+- Use npm start to run build.
 
 ## What do I use in this project?
 
@@ -31,4 +33,3 @@
 4. The promotion page has a carousel (React Responsive Carousel from https://www.npmjs.com/package/react-responsive-carousel)
    - The `Promotions` page has a carousel which displays the image of the 3 randomly chosen products.
    - Each slide also has a label which displays a text in the format `For the {xth} of {month_name} {product_name}: from {old_price} to {new_price}` (example `For the 24th of March Generic Frozen Shirt: from $303.00 to $152 !`)
-
