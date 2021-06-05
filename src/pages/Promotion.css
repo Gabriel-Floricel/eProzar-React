@@ -1,15 +1,19 @@
 img {
-    height: 35rem;
-    object-fit:cover;
+  height: 35rem;
+  object-fit: cover;
 }
 
 .Promotion-Carousel {
-    margin-top: 1.5em;
-    width: 50%;
+  margin-top: 1.5em;
+  width: 50%;
 }
 
 .Promotion {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Carousel-Caption {
+  background-color: rgba(0, 0, 0, 0.5);
 }
