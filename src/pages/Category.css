@@ -17,3 +17,11 @@
 .img {
   object-fit: contain;
 }
+
+.Card > * {
+  height: 100%;
+}
+
+.Card > .card-footer {
+  height: 40px;
+}
